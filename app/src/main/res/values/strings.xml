@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Verihubs Reader</string>
+    <string name="nfc_not_supported">Perangkat ini tidak mendukung NFC</string>
+    <string name="nfc_disabled">NFC tidak aktif. Aktifkan NFC di pengaturan.</string>
+    <string name="scan_ready">Tempelkan kartu ke belakang perangkat</string>
+    <string name="scanning">Membaca kartu…</string>
+    <string name="scan_success">Berhasil membaca kartu!</string>
+    <string name="scan_failed">Gagal membaca kartu</string>
+    <string name="verifying">Memverifikasi dengan Verihubs…</string>
+    <string name="verified">Sertifikat Terverifikasi ✓</string>
+    <string name="not_verified">Sertifikat Tidak Valid</string>
+</resources>
